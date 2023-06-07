@@ -1,4 +1,4 @@
-# Projeto Alocacao
+# Projeto-Alocacao <img align="center" alt="Vini-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 Este projeto foi desenvolvido para a disciplina de Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy.<br> Ele consiste em um sistema para locadora de veículos, desenvolvido em Java.
 
